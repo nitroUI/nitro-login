@@ -1,0 +1,7 @@
+{
+	"guid" : "af8d",
+	"name" : "nitro-login",
+	"frameworks": ["vue"],
+	"tagDependencies": ["nitro-button", "nitro-input"],
+	"id" : "comp_217"
+}
